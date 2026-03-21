@@ -27,10 +27,10 @@
 # | - https://www.mkdocs.org/user-guide/configuration/#site_url                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-site_name: MkDocs Template
-site_description: 'A template for future MkDocs wikis'
-site_author: 'Andre_601'
-#site_url: 'https://www.andre601.ch/mkdocs-template' # Uncomment to set a canonical URL
+site_name: ThatOSDevelopers Docs
+site_description: 'Documentation for projects that ThatOSDeveloper has made.'
+site_author: 'ThatOSDeveloper'
+site_url: 'https://thatosdeveloper.us'
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
@@ -75,8 +75,8 @@ docs_dir: docs/
 # | - https://www.mkdocs.org/user-guide/configuration/#edit_uri                                            |
 # |                                                                                                        |
 # +--------------------------------------------------------------------------------------------------------+
-repo_name: Andre601/mkdocs-template
-repo_url: https://github.com/Andre601/mkdocs-template
+repo_name: ThatOSDeveloper/mysite
+repo_url: https://github.com/ThatOSDeveloper/mysite
 #edit_uri: tree/master/docs # Uncomment to define a different URI/URL for the "edit" option
 
 # +--------------------------------------------------------------------------------------------------------+
