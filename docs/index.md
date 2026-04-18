@@ -6,8 +6,6 @@ I write operating systems and low level software.
 
 This site is the central documentation hub for all of my projects.
 
-[Contact me](mailto:{{ config.extra.email }})
-
 ---
 
 ## Project(s)

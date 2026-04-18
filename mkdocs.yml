@@ -5,6 +5,8 @@ site_url: 'https://thatosdeveloper.us'
 
 copyright: |
   &copy; ThatOSDeveloper
+  <br>
+  <a href="mailto:contact@thatosdeveloper.us">Contact Me</a>
 
 docs_dir: docs/
 
@@ -35,7 +37,10 @@ markdown_extensions:
       permalink: true
 
 extra_javascript:
-  - https://keepandroidopen.org/banner.js
+  - https://keepandroidopen.org/banner.js?lang=en&size=minimal&hidebutton=off&animation=off
 
 extra:
-  email: thatosdeveloper@thatosdeveloper.us
+  email: contact@thatosdeveloper.us
+
+watch:
+  - docs
